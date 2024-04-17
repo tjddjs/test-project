@@ -1,0 +1,4 @@
+|CTAG_1712650903_113419250_29640_0
+git config --list
+q
+git config --global -e
